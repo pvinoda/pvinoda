@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Prabhanjan</h1>
-<h3 align="center">A technopfile coding his way towards excellence</h3>
+<h3 align="center">A technophile coding his way towards excellence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pvinoda&label=Profile%20views&color=0e75b6&style=flat" alt="pvinoda" /> </p>
 
