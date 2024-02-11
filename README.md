@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Distributed AWS Lambda Service](https://github.com/pvinoda/lambda-redesign)
 
-- 🌱 I’m currently learning **GoLang,Distributed Systems, TypeScript and Angular**
+- 🌱 I’m currently learning **GoLang, Distributed Systems, TypeScript and Angular**
 
 - 📝 I write articles on [https://medium.com/@prabhanjanvb](https://medium.com/@prabhanjanvb)
 
