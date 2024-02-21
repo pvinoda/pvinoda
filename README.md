@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://twitter.com/vbprabhanjan" target="blank"><img src="https://img.shields.io/twitter/follow/vbprabhanjan?logo=twitter&style=for-the-badge" alt="vbprabhanjan" /></a> </p>
 
-- 🔭 I’m currently working on [Distributed AWS Lambda Service](https://github.com/pvinoda/lambda-redesign)
+- 🔭 I’m currently working on [Distributed AWS Lambda Service](https://github.com/pvinoda/lambda-redesign) and [Cross Chain Portfolio Tracker](https://github.com/pvinoda/cross-blockchain-portfolio)
 
 - 🌱 I’m currently learning **GoLang, Distributed Systems, TypeScript and Angular**
 
