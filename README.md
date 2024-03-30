@@ -4,12 +4,6 @@
 
 ### For the love of software....
 
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pvinoda&theme=radical)
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pvinoda&label=Profile%20views&color=0e75b6&style=flat" alt="pvinoda" /> </p>
 
 <p align="left"> <a href="https://twitter.com/vbprabhanjan" target="blank"><img src="https://img.shields.io/twitter/follow/vbprabhanjan?logo=twitter&style=for-the-badge" alt="vbprabhanjan" /></a> </p>
@@ -23,6 +17,8 @@
 - 📫 How to reach me **prabhanjan.vb03@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/13JUEZQLvVsfStRYd4OmydVy5NX0c9Wx0](https://drive.google.com/drive/u/0/folders/13JUEZQLvVsfStRYd4OmydVy5NX0c9Wx0)
+
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pvinoda&theme=radical)
 
 - ⚡ Fun fact **I'm a great video editor! I pursue music, screenwriting and film creation in my free time :)**
 
